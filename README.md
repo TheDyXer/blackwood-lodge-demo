@@ -10,6 +10,8 @@ Under **Assets**, download `BlackwoodLodge-Windows-v0.1.0.zip` (61 MB).
 2. Double-click `BlackwoodLodge.exe`.
 3. If Windows says "Windows protected your PC", click **More info**, then **Run anyway**. The game isn't signed by a publisher, so Windows warns about it.
 
+**Updates:** when a new version is out, the game's main menu shows an "Update" button that brings you back here. Your saves carry over.
+
 Needs Windows 10 or 11 (64-bit). Keyboard and mouse or a gamepad. English or Hungarian (Settings → Language). Controls are in `READ ME FIRST.txt` inside the zip, and `WALKTHROUGH-SPOILERS.txt` has every answer if you get stuck.
 
 <p>
