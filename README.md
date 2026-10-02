@@ -4,7 +4,7 @@ A short survival horror game in the style of the 1990s classics: fixed camera an
 
 ## ⬇️ [Download for Windows](https://github.com/TheDyXer/blackwood-lodge-demo/releases/latest)
 
-Under **Assets**, download `BlackwoodLodge-Windows-v0.1.2.zip` (61 MB).
+Under **Assets**, download `BlackwoodLodge-Windows-v0.1.3.zip` (60 MB).
 
 1. Unzip the whole folder (don't run it from inside the zip).
 2. Double-click `BlackwoodLodge.exe`.
@@ -12,7 +12,9 @@ Under **Assets**, download `BlackwoodLodge-Windows-v0.1.2.zip` (61 MB).
 
 **Updates:** when a new version is out, the game's main menu shows an "Update" button that brings you back here. Your saves carry over.
 
-Needs Windows 10 or 11 (64-bit). Keyboard and mouse or a gamepad. English or Hungarian (Settings → Language). Controls are in `READ ME FIRST.txt` inside the zip, and `WALKTHROUGH-SPOILERS.txt` has every answer if you get stuck.
+Needs Windows 10 or 11 (64-bit). Keyboard and mouse or a gamepad. English or Hungarian (Settings → Language). Controls are in `READ ME FIRST.txt` inside the zip.
+
+**Stuck?** The [walkthrough](WALKTHROUGH.md) has every answer, with a picture of each room (spoilers). The same text is in the zip as `WALKTHROUGH-SPOILERS.txt`.
 
 <p>
   <img src="images/main-menu.png" width="49%" alt="Blackwood Lodge main menu">
