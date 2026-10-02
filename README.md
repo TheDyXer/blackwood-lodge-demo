@@ -4,7 +4,7 @@ A short survival horror game in the style of the 1990s classics: fixed camera an
 
 ## ⬇️ [Download for Windows](https://github.com/TheDyXer/blackwood-lodge-demo/releases/latest)
 
-Under **Assets**, download `BlackwoodLodge-Windows-v0.1.0.zip` (61 MB).
+Under **Assets**, download `BlackwoodLodge-Windows-v0.1.1.zip` (61 MB).
 
 1. Unzip the whole folder (don't run it from inside the zip).
 2. Double-click `BlackwoodLodge.exe`.
